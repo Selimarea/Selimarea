@@ -1,4 +1,4 @@
-<html lang="en">
+<html >
 <head>
   <title>Bootstrap 4 Website Example</title>
   <meta charset="utf-8">
@@ -68,13 +68,13 @@
       
       <ul class="nav nav-pills flex-column">
          <li class="nav-item">
-        <a class="nav-link" href="https://www.hdfilmcehennemi.de/hd-the-godfather-izle-7/">The Godfather </a>
+        <a class="nav-link" style="color:Grey; text-decoration: underline;" href="https://www.hdfilmcehennemi.de/hd-the-godfather-izle-7/">The Godfather </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://www.hdfilmcehennemi.de/hd-the-godfather-2-izle-6/">The Godfather 2</a>
+        <a class="nav-link" style="color:Grey; text-decoration: underline;" href="https://www.hdfilmcehennemi.de/hd-the-godfather-2-izle-6/">The Godfather 2</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://www.hdfilmcehennemi.de/hd-the-godfather-3-izle-5/">The Godfather 3</a>
+        <a class="nav-link" style="color:Grey; text-decoration: underline;" href="https://www.hdfilmcehennemi.de/hd-the-godfather-3-izle-5/">The Godfather 3</a>
       </li>    
         
       </ul>
